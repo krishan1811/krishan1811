@@ -1,4 +1,4 @@
-- 👋 Hi, I’m krishan1811
+- 👋 Hi, I’m Krishan Kumar
 - 👀 I’m interested in crating Web App
 - 🌱 I’m currently learning MERN Technology
 - 📫 Reach me on krishan1811kumar@gmail.com
